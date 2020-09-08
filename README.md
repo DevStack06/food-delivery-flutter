@@ -9,7 +9,6 @@ People can try also-:
 3. Create widget dynamically according to restfull api.
 4. Local database connection ex. sqlite.
 
-It was my first flutter app in action before developing an app for startup, so I just explored flutter.But people may try above mention point also.
 
 ### This app have following things -:
 
