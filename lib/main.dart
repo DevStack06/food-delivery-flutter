@@ -4,10 +4,10 @@ import 'package:zomato/src/screens/mainScreen.dart';
 void main()
 {
   
-  runApp(MainApp());
+  runApp(MyApp());
 }
 
-class MainApp extends StatelessWidget
+class MyApp extends StatelessWidget
 {
   @override
   Widget build(BuildContext context) {
