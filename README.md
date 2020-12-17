@@ -10,9 +10,11 @@ People can try also-:
 4. Local database connection ex. sqlite.
 
 Usefull playlist link for flutter app developemnt I covered in my YT Channle :wink: (Dev Stack Youtube Channle)-:
-1. Flutter Blog-App Development series (Both Front-End and Back-End) [Link](https://www.youtube.com/watch?v=T35T8nzyRDI&list=PLtIU0BH0pkKoE2PBvgbHEBPAP-sd670VI)
-2. Flutter model class series, for Rest API connection and JSON parsing. [Link](https://www.youtube.com/playlist?list=PLtIU0BH0pkKpXE-1vC7NswofFPby1OYh-)
-3. Flutter Basic series [link](https://www.youtube.com/playlist?list=PLtIU0BH0pkKrk8C7KToFeRSVTi2CLpFTG)
+| Playlist Name                                             |     | YouTube Playlist Link                                                                       |
+| --------------------------------------------------------- | --- | ------------------------------------------------------------------------------------------- |
+| Blog App Development (Front-End & Back-End)                      |     | [Link](https://youtube.com/playlist?list=PLtIU0BH0pkKoE2PBvgbHEBPAP-sd670VI)                |
+| Flutter model class series, for Rest API connection and JSON parsing |     | [Link](https://www.youtube.com/playlist?list=PLtIU0BH0pkKpXE-1vC7NswofFPby1OYh-) |
+| Flutter Basic series                                                 |     | [link](https://www.youtube.com/playlist?list=PLtIU0BH0pkKrk8C7KToFeRSVTi2CLpFTG) |
 
 
 ### This app have following things -:
