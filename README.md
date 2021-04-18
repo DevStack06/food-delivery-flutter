@@ -1,4 +1,11 @@
-### Food delivery app using flutter
+
+<a href="https://www.buymeacoffee.com/DevStack06" target="_blank"  align="center">
+    <p  align="center">
+   <img   src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174">
+   </p>
+</a>
+
+## Food delivery app using flutter
 
 It is a basic flutter ui for food delivery app like zomato.Map is also integrated.
 
@@ -19,17 +26,25 @@ Usefull playlist link for flutter app developemnt I covered in my YT Channle :wi
 
 ### This app have following things -:
 
-<h5>1. Hoem screen</h5>
-<img src="https://github.com/balram0608/images/blob/master/1.png" width="350"></img>
+<h5  align="center">1. Hoem screen</h5>
+<p align="center" >
+<img  src="https://github.com/balram0608/images/blob/master/1.png" width="350"></img>
+</p>
 <br>
-<h5>2. Order Screen </h5>
+<h5  align="center">2. Order Screen </h5>
+<p align="center" >
 <img src="https://github.com/balram0608/images/blob/master/2.png" width="350"></img>
+</p>
 <br>
-<h5>3. Map Screen </h5>
+<h5  align="center" >3. Map Screen </h5>
+<p  align="center">
 <img src="https://github.com/balram0608/images/blob/master/3.png" width="350"></img>
+</p>
 <br>
-<h5>4. Profile Screen</h5>
+<h5  align="center">4. Profile Screen</h5>
+<p  align="center">
 <img src="https://github.com/balram0608/images/blob/master/4.png" width="350"></img>
+</p>
 
 ### To use this app follow below instructions-:
 
